@@ -7,7 +7,7 @@
 <h3 align="left">Used technologies</h3>
 
 <ul>
-<li>HTML</li>
+<li>EJS</li>
 <li>CSS</li>
 <li>Javascript</li>
 <li>Fetch API</li>
