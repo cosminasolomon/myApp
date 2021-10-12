@@ -4,7 +4,7 @@
 <p align="left"> Quizzilla App is a quiz app for mobile with endless questions generated with a trivia API. 
 </p>
 <h3 align="left">App demo</h3>
-<p align="left"><img src="https://github.com/cosminasolomon/myApp/blob/main/quizzilla.png" height=400px width=500px /></p>
+<p align="left"><img src="https://github.com/cosminasolomon/myApp/blob/main/quizzilla.png" height=400px width=700px /></p>
 <h3 align="left">Used technologies</h3>
 
 <ul>
